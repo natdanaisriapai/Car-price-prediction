@@ -5,4 +5,4 @@ This project is designed to predict car prices using a XGBoost model. Install th
 	The file "xgboost_model.pkl" contains the prediction model used in "streamlit_app.py".
 __________________________________________________________________________________________________________________
 
-For any questions or issues, please contact [natdainai.7901@gmail.com].
+For any questions or issues, please contact [natdanai.sriapai@gmail.com](natdanai.sriapai@gmail.com)..
